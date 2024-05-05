@@ -11,7 +11,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 sleep 2
 echo "                                           "
-echo "############################################"
+echo "###########################################"
 echo "Successfully installed Docker Engine on your System"
 echo "############################################"
 sleep 3
